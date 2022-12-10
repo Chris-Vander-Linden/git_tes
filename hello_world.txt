@@ -1,3 +1,1 @@
-More added text.  (This is added to my local repo)
-
-More added text.  (This was added on the remote repo)
+These changes were added from origin/main to simulate a conflict with another dev.  I am going to resolve this issue by rebasing my remote feature branch with these changes, then create a pull request before merging back into main.
