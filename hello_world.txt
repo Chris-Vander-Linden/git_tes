@@ -1,1 +1,3 @@
+I am completely redoing this text file on my local repo.  I will create a pull request after rebasing origin/main. Thank you!
+
 These changes were added from origin/main to simulate a conflict with another dev.  I am going to resolve this issue by rebasing my remote feature branch with these changes, then create a pull request before merging back into main.
