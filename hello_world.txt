@@ -1,5 +1,1 @@
-More added text.  (This is added to my local repo)
-
-More added text.  (This was added on the remote repo)
-
-More added text.  (This was added on the remote repo's remote-only-test-branch)
+I am completely redoing this text file on my local repo.  I will create a pull request after rebasing origin/main. Thank you!
