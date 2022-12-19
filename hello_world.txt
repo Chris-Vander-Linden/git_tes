@@ -12,3 +12,8 @@ some change by dev 2
 my changes.
 
 more.
+
+
+
+
+Just some simple text added by another person.
