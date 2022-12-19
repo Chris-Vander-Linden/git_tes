@@ -15,8 +15,4 @@ So much more text.
 
 
 
-
-
-
-
-Here is text.
+this is dev text.
