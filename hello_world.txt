@@ -2,7 +2,4 @@ I am completely redoing this text file on my local repo.  I will create a pull r
 
 I changed this text on feature branch.
 
-
-Some change on featue 2 branch.
-
-I'm making a change from remote main.
+Change this!
