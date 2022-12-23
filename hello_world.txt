@@ -15,18 +15,4 @@ more.
 
 
 
-This will add a conflict.
-Just some simple text added by another person.
-
-more
-
-
-Just some more.
-
-1
-2
-3
-
-
-
-This is being added from local dev
+I am changing this locally.
