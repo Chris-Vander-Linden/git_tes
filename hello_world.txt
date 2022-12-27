@@ -26,3 +26,4 @@ remote
 local
 remote
 local
+remote test
