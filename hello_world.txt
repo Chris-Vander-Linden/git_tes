@@ -34,3 +34,4 @@ local test
 local test
 local test
 local test
+local merge test
